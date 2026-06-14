@@ -1,4 +1,5 @@
 ID: QA-0001
+
 SUMMARY: Reflections in puddles don't render right away after exiting inventory.
 
 SEVERITY: Minor
