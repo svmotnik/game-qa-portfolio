@@ -15,6 +15,7 @@ ENVIRONMENT:
 - Graphics set to max with DLSS on Quality
 
 EXPECTED: Reflections are rendered right away after exiting inventory.
+
 ACTUAL: Reflections have slight delay when rendering.
 
 STEPS:
