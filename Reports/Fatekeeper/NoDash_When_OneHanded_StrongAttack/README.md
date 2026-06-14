@@ -28,3 +28,7 @@ STEPS:
 6. Charge Strong Attack.
 7. Dash while still holding Strong Attack.
 8. Dash is not performed at all.
+
+VIDEO: https://youtu.be/wbUXrk5ZEyE
+
+OFFICIAL REPORT SCREENSHOT: <img width="1920" height="1032" alt="Zrzut ekranu 2026-06-14 222900" src="https://github.com/user-attachments/assets/cc22423a-6686-455f-bfbd-bd6de7623287" />
