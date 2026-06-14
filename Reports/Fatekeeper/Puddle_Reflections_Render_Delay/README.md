@@ -27,4 +27,5 @@ STEPS:
 5. Watch as the reflections on the puddles starts to turn on.
 
 VIDEO: https://youtu.be/AdkiO81yGwE
+
 OFFICIAL REPORT SCREENSHOT: <img width="1920" height="1032" alt="Zrzut ekranu 2026-06-14 222442" src="https://github.com/user-attachments/assets/13968a1d-9744-497e-a387-684e24247d9b" />
