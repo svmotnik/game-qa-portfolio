@@ -25,4 +25,5 @@ __STEPS__:
 3. It dissapeared after changing location.
 
 __VIDEO__: https://youtu.be/wbUXrk5ZEyE
+
 __OFFICIAL REPORT SCREENSHOT__: <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/69f14db5-abda-48c7-93c3-d9ddba21ae41" />
