@@ -17,11 +17,11 @@ __ENVIRONMENT__:
 
 __EXPECTED__: To be honest, I don't know if it' intentional, but doesn't look like.
 
-__ACTUAL__: Cockroaches swarmed into glitching mass around my weapon..
+__ACTUAL__: Cockroaches swarmed into glitching mass around my weapon.
 
 __STEPS__:
 1. Be in area with cockroaches.
-2. I don't really know, happened only once, even if I've switched weapons.
+2. I don't really know, happened only once, even if I've switched weapons - it stayed.
 3. It dissapeared after changing location.
 
 __VIDEO__: https://youtu.be/wbUXrk5ZEyE
